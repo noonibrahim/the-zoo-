@@ -1,0 +1,48 @@
+body{
+  background: #ffcc00;
+
+}
+nav{
+  background: purple;
+}
+nav a {
+color: white;
+}
+h1 {
+  color: purple;
+}
+h1{background: yellow;
+}
+h1 {
+  direction: rtl;
+
+}
+
+.urgent{
+  font-style: normal;
+  font-size: 25px
+
+}
+ol li {color: pink
+}
+.urgent{
+  font-style: bold;
+  font-size: 2em;
+  color: red;
+  .blue{
+    color: blue
+    .responsive{
+      max-width:100%
+
+    }
+    .sidebyside img{
+      width:48%
+      
+    }
+  }
+}
+@midia  only screen and (max-width: 600px) {
+  body {
+    background-color: blue;
+ }
+}
